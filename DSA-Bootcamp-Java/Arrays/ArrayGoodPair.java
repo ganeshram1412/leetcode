@@ -1,5 +1,7 @@
 package Arrays;
 
+//leetcode url: https://leetcode.com/problems/number-of-good-pairs/
+//level: easy
 class ArrayGoodPairs {
     public static void main(String[] args) {
         int[] input = { 1, 2, 3 };

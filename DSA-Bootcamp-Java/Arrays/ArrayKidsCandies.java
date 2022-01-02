@@ -1,5 +1,7 @@
 package Arrays;
 
+//leetcode url:https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+//level: easy
 import java.util.ArrayList;
 import java.util.List;
 
