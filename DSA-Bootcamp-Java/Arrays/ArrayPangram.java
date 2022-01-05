@@ -10,7 +10,6 @@ class SolutionPangram {
     public static void main(String[] args) {
         // String sentence = "thequickbrownfoxjumpsoverthelazydog";
         String sentence = "qklccnqeicrabxpggieplwjhakurwwhxbugbryvhazoofifidzvxczmpdjfcyiuhqyedxhzexvpitxknjogpetvgxeqrjuuxzzfblhmhbgibocbhtcbgyxzchlawvnhczlecsrioapggorouzcputqsxhvoxbqxxydiumxwg";
-        System.out.println(checkIfPangram2(sentence));
     }
 
     public static boolean checkIfPangram(String sentence) {
