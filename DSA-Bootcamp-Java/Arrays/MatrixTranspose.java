@@ -1,5 +1,7 @@
 package Arrays;
 
+//leetcode easy
+//leetcode url https://leetcode.com/problems/transpose-matrix/
 import java.util.Arrays;
 
 class MatrixTranspose {
