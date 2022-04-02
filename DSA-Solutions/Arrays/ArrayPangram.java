@@ -1,7 +1,6 @@
 package Arrays;
 //leetcode url:https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
-import java.lang.reflect.Array;
 import java.util.HashMap;
 
 //level: easy

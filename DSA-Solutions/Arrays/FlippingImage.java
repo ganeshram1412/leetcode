@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.Arrays;
-
 //leetcode easy
 //leetcode url https://leetcode.com/problems/flipping-an-image/
 class FlippingImage {
